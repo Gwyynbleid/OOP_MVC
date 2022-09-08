@@ -9,4 +9,6 @@
     </body>
     <div>
     </div>
+    <table>
+    </table>
 </html>
